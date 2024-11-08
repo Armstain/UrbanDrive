@@ -12,7 +12,6 @@ UrbanDrive is an advanced car rental platform providing a seamless experience fo
 6. [Challenges](#challenges)
 7. [Future Improvements](#future-improvements)
 8. [Contributions](#contributions)
-9. [License](#license)
 
 ---
 
