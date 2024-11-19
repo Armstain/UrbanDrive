@@ -68,7 +68,7 @@ UrbanDrive is developed to make renting cars convenient and efficient. It provid
    npm start
    ```
 
-5. **Open the application** in your browser at `http://localhost:5173`.
+5. **Open the application** in your browser at `http://localhost:8000`.
 
 ### Usage
 
